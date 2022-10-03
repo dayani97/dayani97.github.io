@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #eec38c;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -308,10 +308,10 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #a7a5a3;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
-  color: #fff !important;
+  color: rgb(14, 8, 8) !important;
 }
 
 .info {
